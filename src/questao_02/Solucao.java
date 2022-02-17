@@ -47,8 +47,8 @@ public class Solucao {
 		}
 
 		if (quantidadeDeCaracteresSenha < 6) {
-			quantidadeDeCaracteresSenha -= 6;
-			quantidadeDeCaracteresSenha *= -1;
+			quantidadeDeCaracteresSenha = (quantidadeDeCaracteresSenha - 6) * -1;
+			
 
 			System.out.println("Deve Possuir no mínimo 6 caracteres.");
 			System.out.println();
