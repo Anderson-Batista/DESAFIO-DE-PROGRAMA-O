@@ -1,4 +1,4 @@
-# DESAFIO-DE-PROGRAMACAO
+# DESAFIO-DE-PROGRAMAÇÂO
 
 Esse projeto tem como objetivo apresentar as respostas do desafio da academia capgemini.
 
